@@ -1,0 +1,22 @@
+순서
+
+
+C 컴파일러
+서브라임 깔기(에디터)
+C언어의 중요성
+hello world - stdio = standard input ouput
+컴파일 방법 2가지 - 이름과 ./a.out
+
+int, double, float, char 선언 & printf
+주석 방법 2가지 - /*~*/ , //
+
+0 scanf 0 
+기본 - 정수형 두개를 선언해 scanf로 두 수를 받아서 그대로 printf 해주는것 
+사칙연산
+
+
+if문 크기 비교해서 큰것 내놓도록
+
+
+다음 시간 : 삼항연산자, else if문 사용 ...
+스위치문 for문 while문 do while문 - break
