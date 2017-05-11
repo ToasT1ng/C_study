@@ -6,6 +6,7 @@ void doubleArray(){
 	};
 	// int numArray2[3][4] = {11,12,13,14,10,20,30,40,15,16,17,18};
 	int numArray3[3][4] = {0,};
+	// int numArray4[3][4]; 
 
 	printf("%d\n", numArray[0][0]);
 	printf("%d\n", numArray[0][1]);
@@ -13,6 +14,7 @@ void doubleArray(){
 	printf("%d\n", numArray[0][3]);
 	printf("%d\n", numArray[1][2]);
 	printf("%d\n", numArray[2][1]);
+	// printf("%d\n", numArray4[2][2]);
 
 }
 
@@ -42,8 +44,8 @@ void doublePrint(){
 }
 
 int main(){
-	// doubleArray();
+	doubleArray();
 	// doubleSize();
-	doublePrint();
+	// doublePrint();
 	return 0;
 }
