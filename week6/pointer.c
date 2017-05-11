@@ -14,7 +14,7 @@ void pointer(){
 	*numPt = 20;
 	printf("%d\n", *numPt);
 	printf("%d\n", num);
-	// test ste
+
 }
 
 int main(){
