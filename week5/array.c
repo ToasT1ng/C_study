@@ -24,6 +24,7 @@ void arrayTest(){
 	printf("%c\n", letterArray[1]);
 	// printf("%c\n", letterArray2[1]);
 	printf("%c\n", letterArray3[0]);
+	printf("%c\n", letterArray3[2]);
 }
 
 void arraySize(){
@@ -76,11 +77,11 @@ void arrayDouble(){
 }
 
 int main(){
-	// arrayTest();
+	arrayTest();
 	// arraySize();
 	// arrayChange();
 	// arrayPrint();
 	// arraySum();
-	arrayDouble();
+	// arrayDouble();
 	return 0;
 }
