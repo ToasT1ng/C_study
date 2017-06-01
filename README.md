@@ -20,3 +20,18 @@
 이중 포인터 (doublePointer)  
 배열을 포인터에 넣기 (arrayToPoint)  
 **convert 함수 포인터 써서 구현하기 (convert2)**  
+
+## Week7
+2차원 배열을 포인터에 넣기 (doubleArrToPoint)  
+**2차원 배열 포인터를 사용해 프린트 해보기 (printPoint)**
+3차원 배열 (triple)  
+문자열과 문자열 포인터 (stringAndPoint)  
+문자열 포인터에서 인덱스로 문자에 접근 (accessPoint)  
+배열 형태로 문자열 선언 (stringAndArr)  
+배열 형태의 문자열에서 인덱스로 문자에 접근 (accessArr)  
+입력값 배열형태 문자열에 저장 & 입력값 문자열 포인터에 저장 (saveArr & savePoint)  
+문자열 여러개 입력받기 with Array (multipleArr)  
+**문자열 여러개 입력받기 with Pointer (multiplePoint)**
+문자열 길이 구하기 (len)  
+문자열 비교하기 - ASCII 설명 (compare)  
+**strcmp 배열 이용해 구현하기 & 포인터 이용해 구현하기 (compare.c)**
