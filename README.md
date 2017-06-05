@@ -23,7 +23,7 @@
 
 ## Week7
 2차원 배열을 포인터에 넣기 (doubleArrToPoint)  
-**2차원 배열 포인터를 사용해 프린트 해보기 (printPoint)**
+**2차원 배열 포인터를 사용해 프린트 해보기 (printPoint)**  
 3차원 배열 (triple)  
 문자열과 문자열 포인터 (stringAndPoint)  
 문자열 포인터에서 인덱스로 문자에 접근 (accessPoint)  
@@ -31,7 +31,17 @@
 배열 형태의 문자열에서 인덱스로 문자에 접근 (accessArr)  
 입력값 배열형태 문자열에 저장 & 입력값 문자열 포인터에 저장 (saveArr & savePoint)  
 문자열 여러개 입력받기 with Array (multipleArr)  
-**문자열 여러개 입력받기 with Pointer (multiplePoint)**
+**문자열 여러개 입력받기 with Pointer (multiplePoint)**  
 문자열 길이 구하기 (len)  
 문자열 비교하기 - ASCII 설명 (compare)  
-**strcmp 배열 이용해 구현하기 & 포인터 이용해 구현하기 (compare.c)**
+**strcmp 배열 이용해 구현하기 & 포인터 이용해 구현하기 (compare.c)**  
+
+## Week8
+문자열 복사 내장함수 이용하기 (copy & copyWithP)  
+**문자열 복사 배열과 포인터로 만들기 (mystrcpy & mycopyWithP)**  
+문자열 붙여넣기 내장함수 이용하기 (paste & pasteWithP)  
+**문자열 붙여넣기 배열과 포인터로 만들기 (mystrcat & mypasteWithP)**  
+구조체 기본형태 설명 (str)   
+구조체 선언하면서 바로 변수 선언 (str2)  
+구조체 선언 동시에 초기화 (str3)  
+typedef 설명 (defstr)  
