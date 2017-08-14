@@ -45,3 +45,5 @@
 구조체 선언하면서 바로 변수 선언 (str2)  
 구조체 선언 동시에 초기화 (str3)  
 typedef 설명 (defstr)  
+
+### 모든 코드들은 코딩도장(https://dojang.io/course/view.php?id=2)을 참조하였습니다.
